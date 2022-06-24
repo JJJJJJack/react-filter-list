@@ -1,7 +1,7 @@
 import './SearchQuery.css'
 import React, { useState } from 'react';
-import ReactDOM from 'react-dom/client';
 
+// couldn't implement props to get into the page in time
 class Search extends React.Component {
     constructor(props) {
         console.log(props)
